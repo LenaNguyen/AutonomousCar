@@ -6,91 +6,60 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     1979 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
-Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
-Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
-- Completed reload, in  0.073 seconds
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  5.919 seconds
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on ReturnToMainMenu
 This message has been deprecated and will be removed in a later version of Unity.
 Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
  
 (Filename:  Line: 375)
 
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
 desktop: 3000x2000 60Hz; virtual: 3000x2000 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.625400 ms
+UnloadTime: 6.650600 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2830 -> priority: 1 
-  Thread -> id: 3bf4 -> priority: 1 
+  Thread -> id: 2bf0 -> priority: 1 
+  Thread -> id: 498c -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.537700 ms
+UnloadTime: 10.405900 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
-Total: 0.188600 ms (FindLiveObjects: 0.016900 ms CreateObjectMapping: 0.009900 ms MarkObjects: 0.149500 ms  DeleteObjects: 0.011800 ms)
+Total: 0.628600 ms (FindLiveObjects: 0.059000 ms CreateObjectMapping: 0.037200 ms MarkObjects: 0.495700 ms  DeleteObjects: 0.035300 ms)
 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.363200 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.397200 ms
 
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
-Total: 0.831400 ms (FindLiveObjects: 0.089800 ms CreateObjectMapping: 0.028700 ms MarkObjects: 0.337400 ms  DeleteObjects: 0.374900 ms)
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1465.
+Total: 2.174200 ms (FindLiveObjects: 0.234000 ms CreateObjectMapping: 0.127200 ms MarkObjects: 0.859200 ms  DeleteObjects: 0.952100 ms)
 
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.032900 ms
-
-Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 466.
-Total: 2.785500 ms (FindLiveObjects: 0.036300 ms CreateObjectMapping: 0.019800 ms MarkObjects: 0.359100 ms  DeleteObjects: 2.369400 ms)
-
-Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.509800 ms
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1004.
-Total: 0.467900 ms (FindLiveObjects: 0.059400 ms CreateObjectMapping: 0.022700 ms MarkObjects: 0.364200 ms  DeleteObjects: 0.020900 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.722400 ms
-
-Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 466.
-Total: 1.371000 ms (FindLiveObjects: 0.079500 ms CreateObjectMapping: 0.019100 ms MarkObjects: 0.329000 ms  DeleteObjects: 0.941900 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.679700 ms
-
-Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1573.
-Total: 1.020500 ms (FindLiveObjects: 0.090500 ms CreateObjectMapping: 0.038100 ms MarkObjects: 0.429800 ms  DeleteObjects: 0.461400 ms)
-
-Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\CarAI\Default Windows desktop 64-bit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
-Starting to record
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\Nguye\Documents\Online Courses\OpenCV\AutonomousCar\CarAI\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Stopping record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Starting to record
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Stopping record
+Connection Open
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
